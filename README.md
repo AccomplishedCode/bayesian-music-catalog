@@ -36,8 +36,8 @@ Contains test cases.
 
 ## Clone the Repo
 
-    git clone https://github.com/yourusername/bayesian-music-catalog.git
-    cd music-catalog-fastapi
+    git clone https://github.com/AccomplishedCode/bayesian-music-catalog.git
+    cd bayesian-music-catalog
 
 
 ## Create the Virtual Env
